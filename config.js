@@ -38,9 +38,9 @@ global.thumb = fs.readFileSync("./src/papah2.jpg")
 global.profil = fs.readFileSync("./src/papah.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
-global.gh = "https://github.com/FahriAdison"
-global.yt = "https://bit.ly/Papah-Chan"
+global.gc = "https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP"
+global.gh = "https://github.com/Dityarunz"
+global.yt = "-"
 global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
@@ -118,10 +118,10 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6281234288573'],
-	//['12546153210'],
-	['62895612153565', 'Johannes', true],
-	['6282287219167', 'Papah-Chan', true]
+	//  ['6285237596750'],
+	//['6285237596750'],
+	['6285237596750', 'Johannes', true],
+	['6285237596750', 'Papah-Chan', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -142,21 +142,21 @@ global.APIKeys = { // APIKey Here
 global.packname = ''
 global.author = ''
 
-global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
-global.sig = 'https://instagram.com/bot_whangsaf'
+global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
+global.sig = 'https://instagram.com/q.c.ditya'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://www.instagram.com/q.c.ditya"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 852-3759-6750'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6285792429140'
+global.nomorown = '6285237596750'
+global.namebot = 'Ditya-Bot'
+global.nameown = 'Ditya-Astawa'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
